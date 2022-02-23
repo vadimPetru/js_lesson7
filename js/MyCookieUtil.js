@@ -1,4 +1,4 @@
-let MyCookieUtil = {
+let myCookieUtil = {
 
     get: function (name){
         let cookieName = encodeURIComponent(name) + "=",
