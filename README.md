@@ -4,18 +4,18 @@
 
 
 index74
-Google Chrome - не работает
-Opera - не работает
-Yandex Browser - не работает
-Mazilla Firefox - работает
-Microsoft Edge - не работает
+Google Chrome - не работает;\n
+Opera - не работает;\n
+Yandex Browser - не работает;\n
+Mazilla Firefox - работает;\n
+Microsoft Edge - не работает;\n
 
 index75
-Google Chrome - не работает
-Opera - не работает
-Yandex Browser - не работает
-Mazilla Firefox - работает
-Microsoft Edge - не работает
+Google Chrome - не работает;\n
+Opera - не работает;\n
+Yandex Browser - не работает;\n
+Mazilla Firefox - работает;\n
+Microsoft Edge - не работает;\n
 
 
 Пояснение: Как я понимаю, у нас не работает в большей части браузеров, тк мы работаем в локальном формате, а для корректной работы должны 
