@@ -3,9 +3,9 @@
 ## Работа с cookies:
 
 
-+index74
-  +Google Chrome - не работает;
-    +Opera - не работает;
+#index74
+#Google Chrome - не работает;
+#Opera - не работает;
       +Yandex Browser - не работает;
         +Mazilla Firefox - работает;
           +Microsoft Edge - не работает;
